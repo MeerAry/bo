@@ -20,6 +20,7 @@ margin-top: 150px;
 
 }
 button{
+    color: white;
   position: absolute;
   display: flex;
   cursor: pointer;
